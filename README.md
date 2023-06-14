@@ -1,1 +1,1 @@
-# qlpk
+Đây là bản alpha của webapp quản lý phòng khám
